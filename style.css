@@ -1,5 +1,27 @@
+/* CSS HEX */
+/* --federal-blue: #03045eff;
+--marian-blue: #023e8aff;
+--honolulu-blue: #0077b6ff;
+--blue-green: #0096c7ff;
+--pacific-cyan: #00b4d8ff;
+--vivid-sky-blue: #48cae4ff;
+--non-photo-blue: #90e0efff;
+--non-photo-blue-2: #ade8f4ff;
+--light-cyan: #caf0f8ff;
+https://coolors.co/palette/03045e-023e8a-0077b6-0096c7-00b4d8-48cae4-90e0ef-ade8f4-caf0f8 */
+
+
+
+
+body{
+    background-color:rgb(126, 221, 201)
+    
+    
+     
+}
+
 img{
    width: 300px;
-   border: 1px solid black;
+   border: 1px solid rgb(0, 0, 0);
    border-radius: 10px; 
 }
