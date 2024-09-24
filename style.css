@@ -14,7 +14,7 @@ https://coolors.co/palette/03045e-023e8a-0077b6-0096c7-00b4d8-48cae4-90e0ef-ade8
 
 
 body{
-    background-color:rgb(126, 221, 201)
+    background-color:rgb(255, 255, 255)
     
     
      
@@ -22,6 +22,6 @@ body{
 
 img{
    width: 300px;
-   border: 1px solid rgb(0, 0, 0);
+   border: 1px solid rgb(255, 255, 255);
    border-radius: 10px; 
 }
