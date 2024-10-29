@@ -1,0 +1,32 @@
+td{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 2px;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 6px;
+    color: rgb(0, 0, 0);
+    }
+
+    th{
+        border: 1px solid rgb(0, 0, 0);
+        padding: 2px;
+        text-align: center;
+        background-color: rgb(194, 224, 250);
+        border-radius: 6px;
+        color: rgb(0, 0, 0); 
+    }
+    table{
+        background-color: rgb(192, 229, 238);
+        border-radius: 6px;
+        width: 100%;
+        
+    }
+    h1{
+        background-color: rgb(192, 229, 238);
+        border-radius: 6px;
+        padding: 0%;
+        border: 6px;
+        text-align: center;
+        color: black;
+    }
+    
